@@ -1,4 +1,4 @@
-year,Sum of domestic_consumers _sales_GWh,Sum of commercial_and_industrial_consumers_sales_GWh,Sum of all_consumers_sales_GWh,Sum of sales_per_consumer_domestic_kWh,Sum of sales_per_consumer_commercial_and_industrial_kWh
+year,Sum_domestic_consumers _sales_GWh,Sum_commercial_and_industrial_consumers_sales_GWh,Sum_all_consumers_sales_GWh,Sum_sales_per_consumer_domestic_kWh,Sum_sales_per_consumer_commercial_and_industrial_kWh
 2001,872491,650883,1523377,873515,27717820
 2002,884089,663723,1547808,881884,27921477
 2003,887969,649975,1537944,881965,26609671
